@@ -11,6 +11,9 @@ Done.
   
 # Changelog
 
+**v1.2.0 2/25/2019**
+- Added the ability to transfer between activities as well as working admin login credentials
+
 **v1.1.0 2/25/2019**
 - Created a login screen that hides user's password and prints out the Username and Password entered to an alert on the bottom of the screen for testing and verification purposes.
 
