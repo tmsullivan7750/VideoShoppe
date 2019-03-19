@@ -4,7 +4,7 @@ Video Shoppe App created using Android Studio by Thomas Sullivan, Aaron Fulmer, 
 
 # How to import
 
-Extract the "MyApplication" Folder to your desktop.  
+Extract the zip file.  
 Open your Android Tool Kit  
 File > Open > Navigate to the extracted folder and select it > Choose your window to open the application in  
 Done.  
